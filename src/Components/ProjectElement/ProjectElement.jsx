@@ -1,8 +1,8 @@
 import { Card } from "react-bootstrap";
 
-import styles from './ProyectElement.module.css'
+import styles from './ProjectElement.module.css'
 
-function ProyectElement( proyectData ) {
+function ProjectElement( proyectData ) {
     return ( 
         
         <>
@@ -22,4 +22,4 @@ function ProyectElement( proyectData ) {
      );
 }
 
-export default ProyectElement;
+export default ProjectElement;

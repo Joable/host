@@ -7,7 +7,7 @@ import {
 import NavBar from "../../Components/NavBar/NavBar.jsx";
 import Header from "../../Components/Header/Header.jsx";
 import ProfileInfo from "../ProfileInfo/ProfileInfo.jsx"
-import Proyects from "../Proyects/Proyects.jsx"
+import Projects from "../Proyects/Projects.jsx"
 
 import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
@@ -25,8 +25,8 @@ function App() {
 
       <Routes>
 
-        <Route path="/" element={<ProfileInfo/>}/>
-        <Route path="/proyects" element={<Proyects/>}/>
+        <Route path="/host" element={<ProfileInfo/>}/>
+        <Route path="/host/proyects" element={<Projects/>}/>
 
       </Routes>
 

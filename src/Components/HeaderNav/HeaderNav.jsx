@@ -6,14 +6,14 @@ function HeaderNav() {
         <Nav className='justify-content-center' variant='tabs' defaultActiveKey='/'>
 
                 <Nav.Item>
-                    <LinkContainer to="/">
+                    <LinkContainer to="/host">
                         <Nav.Link>Info</Nav.Link>
                     </LinkContainer>
                 </Nav.Item>
                 
                 <Nav.Item>
-                    <LinkContainer to="/proyects">
-                        <Nav.Link>Proyects</Nav.Link>
+                    <LinkContainer to="/host/projects">
+                        <Nav.Link>Projects</Nav.Link>
                     </LinkContainer>
                 </Nav.Item>
         
