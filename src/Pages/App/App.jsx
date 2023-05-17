@@ -26,7 +26,7 @@ function App() {
       <Routes>
 
         <Route path="/host" element={<ProfileInfo/>}/>
-        <Route path="/host/proyects" element={<Projects/>}/>
+        <Route path="/host/projects" element={<Projects/>}/>
 
       </Routes>
 
