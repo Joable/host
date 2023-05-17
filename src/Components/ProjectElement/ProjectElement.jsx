@@ -2,20 +2,20 @@ import { Card } from "react-bootstrap";
 
 import styles from './ProjectElement.module.css'
 
-function ProjectElement( proyectData ) {
+function ProjectElement( projectData ) {
     return ( 
         
         <>
         <hr/>
         <Card.Subtitle>
-            <a href="https://github.com/Joable/porfolio" className={styles.proyectTitle}>
-                {proyectData.proyectData.name}
+            <a href="https://github.com/Joable/porfolio" className={styles.projectTitle}>
+                {projectData.projectData.name}
             </a>
         </Card.Subtitle>
 
         <Card.Text >
             <div className={styles.descriptionText}>
-                {proyectData.proyectData.description}
+                {projectData.projectData.description}
             </div>
         </Card.Text>
         </>
