@@ -7,7 +7,7 @@ import {
 import NavBar from "../../Components/NavBar/NavBar.jsx";
 import Header from "../../Components/Header/Header.jsx";
 import ProfileInfo from "../ProfileInfo/ProfileInfo.jsx"
-import Projects from "../Proyects/Projects.jsx"
+import Projects from "../Projects/Projects.jsx"
 
 import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
