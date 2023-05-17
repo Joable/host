@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Joable/host.git/static/css/main.e1e8344a.css",
-    "main.js": "/Joable/host.git/static/js/main.bf4b23a5.js",
-    "static/js/787.202b8111.chunk.js": "/Joable/host.git/static/js/787.202b8111.chunk.js",
-    "static/media/profileImage.jpg": "/Joable/host.git/static/media/profileImage.7bb400c337c71abf813a.jpg",
-    "static/media/bannerImage.jpeg": "/Joable/host.git/static/media/bannerImage.576be15c2c9d8d377d65.jpeg",
-    "index.html": "/Joable/host.git/index.html",
-    "main.e1e8344a.css.map": "/Joable/host.git/static/css/main.e1e8344a.css.map",
-    "main.bf4b23a5.js.map": "/Joable/host.git/static/js/main.bf4b23a5.js.map",
-    "787.202b8111.chunk.js.map": "/Joable/host.git/static/js/787.202b8111.chunk.js.map"
+    "main.css": "/host/static/css/main.e1e8344a.css",
+    "main.js": "/host/static/js/main.544d2e46.js",
+    "static/js/787.202b8111.chunk.js": "/host/static/js/787.202b8111.chunk.js",
+    "static/media/profileImage.jpg": "/host/static/media/profileImage.7bb400c337c71abf813a.jpg",
+    "static/media/bannerImage.jpeg": "/host/static/media/bannerImage.576be15c2c9d8d377d65.jpeg",
+    "index.html": "/host/index.html",
+    "main.e1e8344a.css.map": "/host/static/css/main.e1e8344a.css.map",
+    "main.544d2e46.js.map": "/host/static/js/main.544d2e46.js.map",
+    "787.202b8111.chunk.js.map": "/host/static/js/787.202b8111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1e8344a.css",
-    "static/js/main.bf4b23a5.js"
+    "static/js/main.544d2e46.js"
   ]
 }
